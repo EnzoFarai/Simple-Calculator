@@ -1,1 +1,2 @@
-
+cd simple-calculator/src
+gcc main.c -o calculator
