@@ -1,5 +1,5 @@
 ## Simple Calculator in C
-This is a simple command-line calculator program written in C that performs basic arithmetic operations.
+This is a simple command-line calculator program written in C that performs basic arithmetic operations, using a switch statement to perform different arithmetic operations based on the operator input by the user.
 
 ## Aim:
 The aim of this project is to create a basic calculator program that performs addition, subtraction, multiplication, and division based on user input.
